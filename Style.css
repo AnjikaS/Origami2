@@ -1,0 +1,30 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    color: darkblue;
+}
+
+.Origami_Designs{
+    color: purple;
+}
+
+.grid{
+    margin:20%;
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius:50px;
+}
+
+.origami{
+    border-radius:20px;
+    background-color:gray;
+
+    width:310 px;
+    font-family:fantasy;
+}
+
+body{
+    background-color:gray;
+}
